@@ -6,6 +6,5 @@
 图像分割是一个重要的过程，也是基于对象的图像分析的先决条件，但将图像分割成有意义的地理对象是一个具有挑战性的问题。 最近，一些学者关注采用初始分割和后续区域合并的混合方法，因为混合方法同时考虑边界和空间信息。 然而，现有的合并标准（MC）仅考虑相邻区段之间的异质性来计算相邻区段的合并成本，因此限制了段和地理对象之间的拟合程度，因为段内的同质性和段之间的异质性都应该得到平等考虑。为克服这一局限性，本文采用混合遥感图像分割方法，考虑区域融合过程中MC的对象异质性和相对同质性（`OHRH`）。在本文中，OHRH方法在五个不同的研究区域中实施，然后使用对象异质性（OH）方法以及完整的lambda-schedule算法（FLSA）与我们的区域合并方法进行比较。无监督评估表明 OHRH方法比OH和FLSA方法更准确，视觉结果表明OHRH方法可以区分小型和大型地理对象。 这些区段显示出 比其他方法更大的尺寸变化，证明了OHRH方法的优越性。
 
 ****
-[原文地址](下载地址：
-http://xueshu.baidu.com/s?wd=paperuri%3A%28b04c88cf9f24d39fbc8263d8a5434f36%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fdx.doi.org%2F10.3390%2Frs10050781&ie=utf-8&sc_us=7029364952901169684)
+[原文地址](下载地址:http://xueshu.baidu.com/s?wd=paperuri%3A%28b04c88cf9f24d39fbc8263d8a5434f36%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fdx.doi.org%2F10.3390%2Frs10050781&ie=utf-8&sc_us=7029364952901169684)
 
