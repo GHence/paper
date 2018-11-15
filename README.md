@@ -6,6 +6,8 @@
 
 # **日记**
 ---
+[2018-11-15](2018/11月/6.md): AlexNet论文。详细地解读见论文分类中地 Image CClassification AlexNet。个人笔记见[此处](2018/11月/6.md)
+
 [2018-11-11](2018/11月/5.md)：这是arXiv上的一篇文章，上个月末被NIPS2018会议收录的来自Google Brain的论文。文中 巧妙地改造了dropout，借鉴相关论文（spatialBlock） 的方法，提出了DropBlock方法来改造CNN中的卷积层和全连接层，实验证明效果很好，值得一读
 <br>
 
@@ -22,3 +24,15 @@
 <br>
 
 [2018-11-3](https://github.com/BMDACMER/paper/tree/master/2018/11%E6%9C%88/1、Region_Merging_ConsideringWithin-_and_Between-Segment_Heteroge.md): 一篇论文，关于遥感图像分割。本文提出了OHRH方法，同时考虑了分割对象之间的不同和分割后段内的相似性，相比较OH（只考虑对象间的不同）和 lambda-schedule算法（FLSA），通过五个不同研究区域，在无监督学习中表现的更好。
+
+---
+ *`论文分类`*
+
+ ## Image Classification
+
+ * AlexNet  
+ [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+ [中文版](http://noahsnail.com/2017/07/18/2017-7-18-AlexNet%E8%AE%BA%E6%96%87%E7%BF%BB%E8%AF%91%E2%80%94%E2%80%94%E4%B8%AD%E6%96%87%E7%89%88/)
+ [中英文对照](http://noahsnail.com/2017/07/04/2017-7-4-AlexNet%E8%AE%BA%E6%96%87%E7%BF%BB%E8%AF%91/)
+
+ 
