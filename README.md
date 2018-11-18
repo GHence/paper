@@ -1,11 +1,13 @@
 ## 记录自己所看论文
 
-入门AI大军，也有一段时间了。现在打算真正静心看看论文，分享到github记录个人成长经历，也是对自己的一种监督， 望大佬多多赐教。如有疑问请联系：1163753605@qq.com
+入门AI大军，也有一段时间了。现在打算真正静心看看论文，分享到github记录个人成长经历，也是对自己的一种监督， 望大佬多多赐教。如有疑问请联系：`1163753605@qq.com`
 ***
 
 
 # **日记**
 ---
+[2018-11-18](2018/11月/8.md): ResNet 网络结构。
+
 [2018-11-16](2018/11月/7.md)：VGG和GoogLeNet 网络结构。
 
 [2018-11-15](2018/11月/6.md): AlexNet论文。详细地解读见论文分类中地 Image CClassification AlexNet。个人笔记见[此处](2018/11月/6.md)
@@ -28,7 +30,7 @@
 [2018-11-3](https://github.com/BMDACMER/paper/tree/master/2018/11%E6%9C%88/1、Region_Merging_ConsideringWithin-_and_Between-Segment_Heteroge.md): 一篇论文，关于遥感图像分割。本文提出了OHRH方法，同时考虑了分割对象之间的不同和分割后段内的相似性，相比较OH（只考虑对象间的不同）和 lambda-schedule算法（FLSA），通过五个不同研究区域，在无监督学习中表现的更好。
 
 ---
- **`论文分类`**
+ **论文分类**
 
  ## Image Classification
 
