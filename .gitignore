@@ -1,7 +1,9 @@
-*.xml
+﻿*.xml
 *.pdf
 *.zip
 *.css
 ./2018/11月/*.css
 *.doc
 *.docx
+*.rar
+awesome-segment-paper/
