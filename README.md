@@ -6,7 +6,9 @@
 
 # **日记**
 ---
-[2018-11-29](2018/11月/11.md)： 目标检测系列的论文，比较经典。R-CNN系列，包括R-CNN、Fast R-CNN 、Faster R-CNN 、 FPN 、 Mask R-CNN、Cascade R-CNN SSpNet
+[2018-12-1](2018/112月/1.md)：
+
+[2018-11-29](2018/11月/11.md)： 目标检测系列的论文，比较经典。R-CNN系列，包括R-CNN、Fast R-CNN 、Faster R-CNN 、SSpNet、OverFeat
 
 [2018-11-28](2018/11月/10.md)： ResNeXt网络，2016年 何凯明团队又一新作，发表在2017年上，笔记主要关于网络结构的讲解以及和ResNet网络的联系与区别。
 
