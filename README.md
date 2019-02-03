@@ -6,6 +6,8 @@
 
 # **日记**
 ---
+[2019-2-3](2019/02月/ssd.md)： SSD: Single Shot Multibox Detector (单发多框检测)
+
 [2018-12-15](2018/12月/4.md)： 语义分割----DeepLab网络(v1 v2 v3)
 
 [2018-12-12](2018/12月/3.md)：**DenseNet** 网络， 论文中的叙述性能，明显强于ResNet，网络架构简介ResNet和GoogleNet以及*stochastic depth**等
