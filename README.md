@@ -6,11 +6,13 @@
 
 # **日记**
 ---
+[2019-2-17](2019/02月/DeeperLab.md)：本文介绍一篇很棒的新全景分割算法：DeeperLab。该论文是由麻省理工学院、Google和伯克利加州大学联名提出。从DeeperLab名字可以看出，该算法与DeepLab有着不解之缘。前者用来解决 Whole Image Parsing问题，也就是 Panoptic Segmentation（全景分割）问题，后者是用来解决Semantic Segmentation（语义分割）问题。
+
 [2019-2-3](2019/02月/ssd.md)： SSD: Single Shot Multibox Detector (单发多框检测)
 
 [2018-12-15](2018/12月/4.md)： 语义分割----DeepLab网络(v1 v2 v3)
 
-[2018-12-12](2018/12月/3.md)：**DenseNet** 网络， 论文中的叙述性能，明显强于ResNet，网络架构简介ResNet和GoogleNet以及*stochastic depth**等
+[2018-12-12](2018/12月/3.md)：**DenseNet** 网络， 论文中的叙述性能，明显强于ResNet，网络架构简介ResNet和GoogleNet以及**stochastic depth**等
 
 [2018-12-8](2018/12月/2.md): YOLO和mask-RCNN 两篇文章，以及结合他们的优点建立目标检测模型---图像难度预测器
 
