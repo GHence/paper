@@ -6,6 +6,8 @@
 
 # **日记**
 ---
+[2019-2-26](2019/02月/DeepLabV3+.md)：DeepLabV3+论文
+
 [2019-2-17](2019/02月/DeeperLab.md)：本文介绍一篇很棒的新全景分割算法：DeeperLab。该论文是由麻省理工学院、Google和伯克利加州大学联名提出。从DeeperLab名字可以看出，该算法与DeepLab有着不解之缘。前者用来解决 Whole Image Parsing问题，也就是 Panoptic Segmentation（全景分割）问题，后者是用来解决Semantic Segmentation（语义分割）问题。
 
 [2019-2-3](2019/02月/ssd.md)： SSD: Single Shot Multibox Detector (单发多框检测)
