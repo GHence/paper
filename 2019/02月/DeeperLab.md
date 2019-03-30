@@ -41,7 +41,7 @@ Abstract：我们提出了一种用于image parsing（图像解析）的 single-
 
 本文的算法是用上图中的（b）+（c）代替（a）
 
-
+图像解析的作用： 将图像分解为连续的视觉模式
 
 ---
 
@@ -127,6 +127,36 @@ Decoder 模块的目标是恢复详细的物体边界。在DeepLabV3+之后，�
 
 DeeperLab 作为新的全景分割算法，其在精度和速度之间取得了很好的平衡，论文中做了大量实验和tricks。更多细节，详见原论文。
 
+
+
+
+----
+** 个人小结 **
+
+~~~
+创新点：1、使用depthwise separated convolution  2、共享两层网络组成的预测段
+3、扩大卷积核的大小而不是增加网络的深度
+4、应用space-to-depth 及 depth-to-space的方法而不是上采样
+5、执行 hard data mining
+6、提出一种新的交叉评价标准Parsing Covering（基于区域的分析覆盖）
+
+为了提高效率，语义分割与 实例分割共享decoder的输出，将二者的输出结果进行融合作为最终 图像的结果。
+
+~~~
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ***
 参考链接
 
@@ -135,3 +165,7 @@ https://blog.csdn.net/qq_14845119/article/details/73648100
 https://mp.weixin.qq.com/s/jrm72UQIT5i7Gdw1K4Nf8Q
 
 https://blog.csdn.net/u014380165/article/details/79200958
+
+https://www.cnblogs.com/fourmi/p/10391846.html
+
+https://baijiahao.baidu.com/s?id=1626860000210653891&wfr=spider&for=pc
