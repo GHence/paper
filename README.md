@@ -6,6 +6,8 @@
 
 # **日记**
 ---
+[2019-3-31](2019/03月/PSPNet.md):场景分割中经典网络，目前在CamVid保持着state-of-the-art
+
 [2019-3-4](2019/03月/Mask-RCNN.md)：Mask R-CNN论文及其讲解笔记
 
 [2019-2-26](2019/02月/DeepLabV3+.md)：DeepLabV3+论文
